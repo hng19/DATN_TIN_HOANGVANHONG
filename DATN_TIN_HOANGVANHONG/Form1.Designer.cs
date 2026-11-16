@@ -56,8 +56,8 @@
             this.btn_CancelBeam = new System.Windows.Forms.Button();
             this.btn_RunBeam = new System.Windows.Forms.Button();
             this.groupBox6 = new System.Windows.Forms.GroupBox();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.comboBox1 = new System.Windows.Forms.ComboBox();
+            this.txt_HeightOffsetBeam = new System.Windows.Forms.TextBox();
+            this.cbb_SelectLevelBeam = new System.Windows.Forms.ComboBox();
             this.label11 = new System.Windows.Forms.Label();
             this.label12 = new System.Windows.Forms.Label();
             this.groupBox5 = new System.Windows.Forms.GroupBox();
@@ -276,7 +276,6 @@
             this.cbbLineCadColumn.Name = "cbbLineCadColumn";
             this.cbbLineCadColumn.Size = new System.Drawing.Size(145, 25);
             this.cbbLineCadColumn.TabIndex = 2;
-            this.cbbLineCadColumn.SelectedIndexChanged += new System.EventHandler(this.cbbLineCadColumn_SelectedIndexChanged);
             // 
             // label3
             // 
@@ -318,7 +317,6 @@
             this.cbblinkcad.Name = "cbblinkcad";
             this.cbblinkcad.Size = new System.Drawing.Size(226, 25);
             this.cbblinkcad.TabIndex = 1;
-            this.cbblinkcad.SelectedIndexChanged += new System.EventHandler(this.cbblinkcad_SelectedValueChanged);
             // 
             // label1
             // 
@@ -367,11 +365,12 @@
             this.btn_RunBeam.TabIndex = 6;
             this.btn_RunBeam.Text = "Run";
             this.btn_RunBeam.UseVisualStyleBackColor = false;
+            this.btn_RunBeam.Click += new System.EventHandler(this.btn_RunBeam_Click);
             // 
             // groupBox6
             // 
-            this.groupBox6.Controls.Add(this.textBox1);
-            this.groupBox6.Controls.Add(this.comboBox1);
+            this.groupBox6.Controls.Add(this.txt_HeightOffsetBeam);
+            this.groupBox6.Controls.Add(this.cbb_SelectLevelBeam);
             this.groupBox6.Controls.Add(this.label11);
             this.groupBox6.Controls.Add(this.label12);
             this.groupBox6.Location = new System.Drawing.Point(8, 236);
@@ -381,22 +380,22 @@
             this.groupBox6.TabIndex = 5;
             this.groupBox6.TabStop = false;
             // 
-            // textBox1
+            // txt_HeightOffsetBeam
             // 
-            this.textBox1.Font = new System.Drawing.Font("Cascadia Code Light", 10F);
-            this.textBox1.Location = new System.Drawing.Point(197, 57);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(142, 23);
-            this.textBox1.TabIndex = 5;
-            this.textBox1.Text = "0";
+            this.txt_HeightOffsetBeam.Font = new System.Drawing.Font("Cascadia Code Light", 10F);
+            this.txt_HeightOffsetBeam.Location = new System.Drawing.Point(197, 57);
+            this.txt_HeightOffsetBeam.Name = "txt_HeightOffsetBeam";
+            this.txt_HeightOffsetBeam.Size = new System.Drawing.Size(142, 23);
+            this.txt_HeightOffsetBeam.TabIndex = 5;
+            this.txt_HeightOffsetBeam.Text = "0";
             // 
-            // comboBox1
+            // cbb_SelectLevelBeam
             // 
-            this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Location = new System.Drawing.Point(10, 57);
-            this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(142, 25);
-            this.comboBox1.TabIndex = 4;
+            this.cbb_SelectLevelBeam.FormattingEnabled = true;
+            this.cbb_SelectLevelBeam.Location = new System.Drawing.Point(10, 57);
+            this.cbb_SelectLevelBeam.Name = "cbb_SelectLevelBeam";
+            this.cbb_SelectLevelBeam.Size = new System.Drawing.Size(142, 25);
+            this.cbb_SelectLevelBeam.TabIndex = 4;
             // 
             // label11
             // 
@@ -563,10 +562,10 @@
         private System.Windows.Forms.ComboBox cbblinkCadBeam;
         private System.Windows.Forms.ComboBox cbbLineBeam;
         private System.Windows.Forms.GroupBox groupBox6;
-        private System.Windows.Forms.ComboBox comboBox1;
+        private System.Windows.Forms.ComboBox cbb_SelectLevelBeam;
         private System.Windows.Forms.Label label11;
         private System.Windows.Forms.Label label12;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox txt_HeightOffsetBeam;
         private System.Windows.Forms.Button btn_CancelBeam;
         private System.Windows.Forms.Button btn_RunBeam;
     }

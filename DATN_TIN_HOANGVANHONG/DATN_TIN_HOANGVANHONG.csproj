@@ -51,6 +51,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="clsDam.cs" />
     <Compile Include="OpenAddIn.cs" />
     <Compile Include="clsCot.cs" />
     <Compile Include="Form1.cs">
