@@ -68,6 +68,7 @@
             this.groupBox4 = new System.Windows.Forms.GroupBox();
             this.cbblinkCadBeam = new System.Windows.Forms.ComboBox();
             this.label8 = new System.Windows.Forms.Label();
+            this.label13 = new System.Windows.Forms.Label();
             this.contextMenuStrip1.SuspendLayout();
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
@@ -150,6 +151,7 @@
             // 
             // groupBox3
             // 
+            this.groupBox3.Controls.Add(this.label13);
             this.groupBox3.Controls.Add(this.txt_TopOffsetColumn);
             this.groupBox3.Controls.Add(this.txt_BaseOffsetColumn);
             this.groupBox3.Controls.Add(this.cbb_TopLeverColumn);
@@ -468,7 +470,7 @@
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(133, 15);
             this.label9.TabIndex = 0;
-            this.label9.Text = "Layer Beam of AutoCAD";
+            this.label9.Text = "Layer Beam Of AutoCAD";
             // 
             // groupBox4
             // 
@@ -498,6 +500,17 @@
             this.label8.Size = new System.Drawing.Size(96, 18);
             this.label8.TabIndex = 0;
             this.label8.Text = "File_name :";
+            // 
+            // label13
+            // 
+            this.label13.AutoSize = true;
+            this.label13.Font = new System.Drawing.Font("Cascadia Code", 8F);
+            this.label13.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(127)))), ((int)(((byte)(140)))), ((int)(((byte)(141)))));
+            this.label13.Location = new System.Drawing.Point(12, 19);
+            this.label13.Name = "label13";
+            this.label13.Size = new System.Drawing.Size(145, 15);
+            this.label13.TabIndex = 9;
+            this.label13.Text = "Layer Column Of AutoCAD";
             // 
             // Form1
             // 
@@ -568,5 +581,6 @@
         private System.Windows.Forms.TextBox txt_HeightOffsetBeam;
         private System.Windows.Forms.Button btn_CancelBeam;
         private System.Windows.Forms.Button btn_RunBeam;
+        private System.Windows.Forms.Label label13;
     }
 }

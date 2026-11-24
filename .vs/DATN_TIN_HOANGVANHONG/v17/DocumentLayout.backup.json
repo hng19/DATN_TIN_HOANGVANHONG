@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Hng19\\Desktop\\New folder\\DATN_TIN_HOANGVANHONG\\",
+  "WorkspaceRootPath": "C:\\Users\\Hng19\\Documents\\GitHub\\DATN_TIN_HOANGVANHONG\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CF9E2148-692E-4F1F-834A-E09ABA2D4A29}|DATN_TIN_HOANGVANHONG\\DATN_TIN_HOANGVANHONG.csproj|c:\\users\\hng19\\desktop\\new folder\\datn_tin_hoangvanhong\\datn_tin_hoangvanhong\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF9E2148-692E-4F1F-834A-E09ABA2D4A29}|DATN_TIN_HOANGVANHONG\\DATN_TIN_HOANGVANHONG.csproj|c:\\users\\hng19\\documents\\github\\datn_tin_hoangvanhong\\datn_tin_hoangvanhong\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF9E2148-692E-4F1F-834A-E09ABA2D4A29}|DATN_TIN_HOANGVANHONG\\DATN_TIN_HOANGVANHONG.csproj|solutionrelative:datn_tin_hoangvanhong\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF9E2148-692E-4F1F-834A-E09ABA2D4A29}|DATN_TIN_HOANGVANHONG\\DATN_TIN_HOANGVANHONG.csproj|C:\\Users\\Hng19\\Desktop\\New folder\\DATN_TIN_HOANGVANHONG\\datn_tin_hoangvanhong\\openaddin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF9E2148-692E-4F1F-834A-E09ABA2D4A29}|DATN_TIN_HOANGVANHONG\\DATN_TIN_HOANGVANHONG.csproj|C:\\Users\\Hng19\\Documents\\GitHub\\DATN_TIN_HOANGVANHONG\\datn_tin_hoangvanhong\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF9E2148-692E-4F1F-834A-E09ABA2D4A29}|DATN_TIN_HOANGVANHONG\\DATN_TIN_HOANGVANHONG.csproj|solutionrelative:datn_tin_hoangvanhong\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9E2148-692E-4F1F-834A-E09ABA2D4A29}|DATN_TIN_HOANGVANHONG\\DATN_TIN_HOANGVANHONG.csproj|C:\\Users\\Hng19\\Documents\\GitHub\\DATN_TIN_HOANGVANHONG\\datn_tin_hoangvanhong\\clscot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9E2148-692E-4F1F-834A-E09ABA2D4A29}|DATN_TIN_HOANGVANHONG\\DATN_TIN_HOANGVANHONG.csproj|solutionrelative:datn_tin_hoangvanhong\\clscot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9E2148-692E-4F1F-834A-E09ABA2D4A29}|DATN_TIN_HOANGVANHONG\\DATN_TIN_HOANGVANHONG.csproj|C:\\Users\\Hng19\\Documents\\GitHub\\DATN_TIN_HOANGVANHONG\\datn_tin_hoangvanhong\\openaddin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF9E2148-692E-4F1F-834A-E09ABA2D4A29}|DATN_TIN_HOANGVANHONG\\DATN_TIN_HOANGVANHONG.csproj|solutionrelative:datn_tin_hoangvanhong\\openaddin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|DATN_TIN_HOANGVANHONG||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF9E2148-692E-4F1F-834A-E09ABA2D4A29}|DATN_TIN_HOANGVANHONG\\DATN_TIN_HOANGVANHONG.csproj|C:\\Users\\Hng19\\Desktop\\New folder\\DATN_TIN_HOANGVANHONG\\datn_tin_hoangvanhong\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CF9E2148-692E-4F1F-834A-E09ABA2D4A29}|DATN_TIN_HOANGVANHONG\\DATN_TIN_HOANGVANHONG.csproj|solutionrelative:datn_tin_hoangvanhong\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF9E2148-692E-4F1F-834A-E09ABA2D4A29}|DATN_TIN_HOANGVANHONG\\DATN_TIN_HOANGVANHONG.csproj|C:\\Users\\Hng19\\Desktop\\New folder\\DATN_TIN_HOANGVANHONG\\datn_tin_hoangvanhong\\clscot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF9E2148-692E-4F1F-834A-E09ABA2D4A29}|DATN_TIN_HOANGVANHONG\\DATN_TIN_HOANGVANHONG.csproj|solutionrelative:datn_tin_hoangvanhong\\clscot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,26 +29,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "DATN_TIN_HOANGVANHONG",
-              "DocumentMoniker": "C:\\Users\\Hng19\\Desktop\\New folder\\DATN_TIN_HOANGVANHONG\\DATN_TIN_HOANGVANHONG\\DATN_TIN_HOANGVANHONG.csproj",
+              "DocumentMoniker": "C:\\Users\\Hng19\\Documents\\GitHub\\DATN_TIN_HOANGVANHONG\\DATN_TIN_HOANGVANHONG\\DATN_TIN_HOANGVANHONG.csproj",
               "RelativeDocumentMoniker": "DATN_TIN_HOANGVANHONG\\DATN_TIN_HOANGVANHONG.csproj",
-              "ToolTip": "C:\\Users\\Hng19\\Desktop\\New folder\\DATN_TIN_HOANGVANHONG\\DATN_TIN_HOANGVANHONG\\DATN_TIN_HOANGVANHONG.csproj",
+              "ToolTip": "C:\\Users\\Hng19\\Documents\\GitHub\\DATN_TIN_HOANGVANHONG\\DATN_TIN_HOANGVANHONG\\DATN_TIN_HOANGVANHONG.csproj",
               "RelativeToolTip": "DATN_TIN_HOANGVANHONG\\DATN_TIN_HOANGVANHONG.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2026-11-09T17:31:31.48Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "OpenAddIn.cs",
-              "DocumentMoniker": "C:\\Users\\Hng19\\Desktop\\New folder\\DATN_TIN_HOANGVANHONG\\DATN_TIN_HOANGVANHONG\\OpenAddIn.cs",
+              "DocumentMoniker": "C:\\Users\\Hng19\\Documents\\GitHub\\DATN_TIN_HOANGVANHONG\\DATN_TIN_HOANGVANHONG\\OpenAddIn.cs",
               "RelativeDocumentMoniker": "DATN_TIN_HOANGVANHONG\\OpenAddIn.cs",
-              "ToolTip": "C:\\Users\\Hng19\\Desktop\\New folder\\DATN_TIN_HOANGVANHONG\\DATN_TIN_HOANGVANHONG\\OpenAddIn.cs",
+              "ToolTip": "C:\\Users\\Hng19\\Documents\\GitHub\\DATN_TIN_HOANGVANHONG\\DATN_TIN_HOANGVANHONG\\OpenAddIn.cs",
               "RelativeToolTip": "DATN_TIN_HOANGVANHONG\\OpenAddIn.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -58,35 +62,35 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Hng19\\Desktop\\New folder\\DATN_TIN_HOANGVANHONG\\DATN_TIN_HOANGVANHONG\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Hng19\\Documents\\GitHub\\DATN_TIN_HOANGVANHONG\\DATN_TIN_HOANGVANHONG\\Form1.cs",
               "RelativeDocumentMoniker": "DATN_TIN_HOANGVANHONG\\Form1.cs",
-              "ToolTip": "C:\\Users\\Hng19\\Desktop\\New folder\\DATN_TIN_HOANGVANHONG\\DATN_TIN_HOANGVANHONG\\Form1.cs",
+              "ToolTip": "C:\\Users\\Hng19\\Documents\\GitHub\\DATN_TIN_HOANGVANHONG\\DATN_TIN_HOANGVANHONG\\Form1.cs",
               "RelativeToolTip": "DATN_TIN_HOANGVANHONG\\Form1.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAowCkAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-06T20:41:34.139Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Hng19\\Desktop\\New folder\\DATN_TIN_HOANGVANHONG\\DATN_TIN_HOANGVANHONG\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Hng19\\Documents\\GitHub\\DATN_TIN_HOANGVANHONG\\DATN_TIN_HOANGVANHONG\\Form1.cs",
               "RelativeDocumentMoniker": "DATN_TIN_HOANGVANHONG\\Form1.cs",
               "ToolTip": "C:\\Users\\Hng19\\Desktop\\New folder\\DATN_TIN_HOANGVANHONG\\DATN_TIN_HOANGVANHONG\\Form1.cs [Design]",
-              "RelativeToolTip": "DATN_TIN_HOANGVANHONG\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\New folder\\DATN_TIN_HOANGVANHONG\\DATN_TIN_HOANGVANHONG\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-06T20:12:32.131Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "clsCot.cs",
-              "DocumentMoniker": "C:\\Users\\Hng19\\Desktop\\New folder\\DATN_TIN_HOANGVANHONG\\DATN_TIN_HOANGVANHONG\\clsCot.cs",
+              "DocumentMoniker": "C:\\Users\\Hng19\\Documents\\GitHub\\DATN_TIN_HOANGVANHONG\\DATN_TIN_HOANGVANHONG\\clsCot.cs",
               "RelativeDocumentMoniker": "DATN_TIN_HOANGVANHONG\\clsCot.cs",
-              "ToolTip": "C:\\Users\\Hng19\\Desktop\\New folder\\DATN_TIN_HOANGVANHONG\\DATN_TIN_HOANGVANHONG\\clsCot.cs",
+              "ToolTip": "C:\\Users\\Hng19\\Documents\\GitHub\\DATN_TIN_HOANGVANHONG\\DATN_TIN_HOANGVANHONG\\clsCot.cs",
               "RelativeToolTip": "DATN_TIN_HOANGVANHONG\\clsCot.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-06T20:12:14.804Z"
             }
